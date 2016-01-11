@@ -13,6 +13,8 @@ import android.widget.Button;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
+    //Deneme Git 1
+    int a1;
     Button button1,button2;
     RotateAnimation ra=new RotateAnimation(0.0f,360.0f, Animation.RELATIVE_TO_SELF,0.5f,Animation.RELATIVE_TO_SELF,0.5f);//0.of 0 dereceden başla 360 derece dön demek
     @Override
